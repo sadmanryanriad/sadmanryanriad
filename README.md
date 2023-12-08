@@ -38,3 +38,55 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadmanryanriad&theme=github-dark-dimmed)](https://git.io/streak-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadmanryanriad&theme=github_dark)
+
+
+## My last 3 projects
+
+### Project Name: Employee Management 👨‍🏭
+#### [Live Link (Click Here)](https://assignment-12-14f39.web.app/)
+This project focuses on efficient employee management within a company, emphasizing the hierarchical structure of admins, HRs, and employees, each with their dedicated dashboards. Admins have the authority to promote employees to HR positions and terminate HR roles at any time. Key features include:
+
+##### Admin:
+- Promotion of employees to HR
+- Termination of HR positions
+- Verification of HR and employee status
+
+##### HR:
+- Monitoring employees' work progress
+- Employee verification
+- Salary payment
+
+##### Employee:
+- Access to payment history
+- Submission of work progress
+
+Explore more features on the live link.
+
+### Project Name: Alpha Hotel 🏩
+#### [Live Link (Click Here)](https://assignment-11-785f0.web.app/)
+Embark on the ultimate luxurious hotel experience with Alpha Hotel. Noteworthy features include:
+
+- Striking homepage design
+- Firebase-based user authentication
+- JWT token verification
+- Room booking, updating, and cancellation, along with user ratings stored in a real database
+- Date-related functionalities, preventing duplicate room bookings for the same date
+- Custom scroll button for easy navigation to the top
+- Dark mode for user preference
+- Toast notifications for every CRUD operation
+- Custom animations and more
+
+Experience luxury and functionality on the live link.
+
+### Project Name: Automotive 🚗
+#### [Live Link (Click Here)](https://assignment-10-automotive.web.app/)
+The Automotive Showcase Website is a unique platform catering to automotive enthusiasts, allowing them to explore and shop for products from various automotive brands. The website showcases six popular brands, utilizing the following technologies:
+
+- Tailwind CSS
+- React
+- React Router
+- Firebase
+- MongoDB
+- Express.js
+
+Although simple, this project stands out in its category. Explore the world of automotive excellence on the live link.
