@@ -38,4 +38,4 @@
 ## Current Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadmanryanriad&theme=github-dark-dimmed)](https://git.io/streak-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sadmanryanriad&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadmanryanriad&theme=github_dark)
