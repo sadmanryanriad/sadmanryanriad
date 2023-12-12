@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/sadmanryanriad/sadmanryanriad/main/images/github-banner-riad.png" />
 </a>
 
-<h1 align="center">Hi 👋, I'm Sadman Ryan Riad</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="waving-gif">, I'm Sadman Ryan Riad</h1>
 <h3 align="center">A passionate Web Developer with a love for exploring cutting-edge technologies. Currently pursuing a degree in Computer Science and Engineering, I dedicate each day to enhancing my coding skills. Transforming ideas into functional web solutions is not just my job – it's my passion.</h3>
 
 ## Connect with me
