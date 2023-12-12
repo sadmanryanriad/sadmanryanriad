@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/sadmanryanriad/" target="_blank">
-  <img src="https://github.com/sadmanryanriad/sadmanryanriad/blob/main/images/github-banner-3.png" />
+  <img src="https://github.com/sadmanryanriad/sadmanryanriad/blob/main/images/riad%20github%20banner.png" />
 </a>
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="waving-gif">, I'm Sadman Ryan Riad</h1>
